@@ -12,6 +12,6 @@ RSDD-1 dataset: 695 images
 RSDD-2 dataset: 699 images
 ![image](https://github.com/neu-rail-rsdds/rail_surface_Anomaly_detection/blob/main/images/5.png)
 ![image](https://github.com/neu-rail-rsdds/rail_surface_Anomaly_detection/blob/main/images/156.png)
-RSDD-3 dataset: 695 images
+RSDD-3 dataset: 
 ![image](https://github.com/neu-rail-rsdds/rail_surface_Anomaly_detection/blob/main/images/203.jpg)
 ![image](https://github.com/neu-rail-rsdds/rail_surface_Anomaly_detection/blob/main/images/211.jpg)
