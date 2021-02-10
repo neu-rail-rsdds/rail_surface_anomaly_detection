@@ -17,3 +17,5 @@ RSDD-3 dataset:
 ![image](https://github.com/neu-rail-rsdds/rail_surface_Anomaly_detection/blob/main/images/211.jpg)
 
 The datasets are being updated...
+链接: https://pan.baidu.com/s/1KlA_r-_gA92jrqu6sm0SFw 提取码: v4bu 
+Email to 1800409@stu.neu.edu.cn, contact Dr.Wang to get the decompression password.
