@@ -18,5 +18,5 @@ RSDD-3 dataset:
 
 The datasets are being updated...
 链接: https://pan.baidu.com/s/1KlA_r-_gA92jrqu6sm0SFw 提取码: v4bu 
-Email to menghuiniu@163.com, contact Dr.Niu to get the decompression password.
+Email to numhui@163.com, contact Dr.Niu to get the decompression password.
 (Ps:Please indicate the title of the article in the email)
